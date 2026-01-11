@@ -1,0 +1,10 @@
+# Fichiers volumineux
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.rar
+*.7z
+node_modules/
+.DS_Store
